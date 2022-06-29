@@ -13,3 +13,7 @@ Write a C++ Program that implements the above  bicycle rental program
 
 ### Solution for above exercise
 [Take a look on the solution here](https://github.com/bigelio/c--exercise/blob/main/app.cpp)
+
+## This can be tested in this way:
+
+![Screen Shot 2022-06-30 at 00 59 32](https://user-images.githubusercontent.com/70667354/176559899-c12cc175-994d-42d4-a606-f79d7d4d1280.png)
